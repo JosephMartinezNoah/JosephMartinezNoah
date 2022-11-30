@@ -1,4 +1,4 @@
-### ^**Wassup**
+### **Wassup**
 
 <!--
 -  I’m currently working at **Lowes **
